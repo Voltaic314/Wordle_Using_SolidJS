@@ -1,7 +1,7 @@
 {
-    "name": "Wordle_Using_SolidJS",
+    "name": "wordle_using_solidjs",
     "version": "1.0.0",
-    "description": "A Solid JS project",
+    "description": "wordle game using solidjs",
     "scripts": {
       "start": "vite",
       "build": "vite build",
