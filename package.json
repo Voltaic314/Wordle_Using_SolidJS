@@ -1,0 +1,16 @@
+{
+    "name": "Wordle_Using_SolidJS",
+    "version": "1.0.0",
+    "description": "A Solid JS project",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "dependencies": {
+      "solid-js": "^1.0.0"
+    },
+    "devDependencies": {
+      "vite": "^2.0.0"
+    }
+  }
